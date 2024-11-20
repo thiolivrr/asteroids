@@ -41,4 +41,3 @@ class Asteroid(CircleShape):
 
             # Kill the original asteroid
             self.kill()
-
